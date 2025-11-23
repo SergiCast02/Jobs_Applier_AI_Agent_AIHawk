@@ -5,13 +5,13 @@ personal_information:
   date_of_birth: "2002-09-24"  # No especificado en tu CV
   country: "Honduras"
   city: "Choluteca"
-  zip_code: ""  # No especificado
+  zip_code: "51101"  # No especificado
   address: "Choluteca, Honduras"
   phone_prefix: "+504"
   phone: "32678821"
   email: "sergioagustincastillo@gmail.com"
   github: "https://github.com/sergicast02"
-  linkedin: "www.linkedin.com/in/sergio02"
+  linkedin: "https://www.linkedin.com/in/sergio02"
 
 education_details:
   - education_level: "Bachelor's Degree"
