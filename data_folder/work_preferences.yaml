@@ -1,6 +1,7 @@
+# work_preferences.yaml
 remote: true
-hybrid: true
-onsite: true
+hybrid: false
+onsite: false
 
 experience_level:
   internship: false
@@ -12,36 +13,35 @@ experience_level:
 
 job_types:
   full_time: true
-  contract: false
+  contract: true
   part_time: false
   temporary: true
   internship: false
   other: false
-  volunteer: true
+  volunteer: false
 
 date:
-  all_time: false
+  all_time: true
   month: false
   week: false
-  24_hours: true
+  24_hours: false
 
 positions:
-  - Software engineer
+  - "Full-Stack Developer"
+  - "Backend Developer"
+  - "Android Developer"
+  - "Software Engineer"
 
 locations:
-  - Germany
+  - "United States"
+  - "Remote"
 
 apply_once_at_company: true
 
 distance: 100
 
-company_blacklist:
-  - wayfair
-  - Crossover
+company_blacklist: []  # No especificado
 
-title_blacklist:
-  - word1
-  - word2
+title_blacklist: []  # No especificado
 
-location_blacklist:
-  - Brazil
+location_blacklist: []  # No especificado
